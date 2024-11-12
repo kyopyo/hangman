@@ -45,4 +45,4 @@ def hangman(word):
 
 hangman("cat")
 
-#むずかしい
+#むずかしいわ
